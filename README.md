@@ -3,6 +3,7 @@
 ## Group list 
 
 ### Saladprirate
+- Application : Personal Money Management
 - Presentation Slide :
 - Github :
 - Appliation URL :
