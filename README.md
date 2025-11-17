@@ -188,7 +188,7 @@
 - Application : TBA
 - Presentation Slide : TBA
 - Github : [github(private)](https://github.com/burrTong/burrrtongg)
-- Appliation URL : https://muict.app/burrrtongg-frontend
+- Appliation URL : https://muict.app/burrrtongg-frontend, user:admin@admin.com pass:admin
 - Member :
   1. Kongpop Keattireangwattana 6687005
   2. Tapanut Aunpikul 6687014
@@ -216,7 +216,7 @@
 - Application : Personal Money Management
 - Presentation Slide : [slide](https://www.canva.com/design/DAG2DPqmUtc/ielP0G0C4WmYGQVp38zhJg/edit)
 - Github : [github-fe](https://github.com/Salad-Pirate/Personal_Money_Management), [github-be](https://github.com/Salad-Pirate/Personal_Money_Management_BackEnd), [github-db](https://github.com/Salad-Pirate/Personal_Money_Management_DB), [github-infra](https://github.com/Salad-Pirate/Personal_Money_Management_Infra), [github-docs](https://github.com/Salad-Pirate/Personal_Money_Management_Document)
-- Appliation URL : https://muict.app/salad-pirate-frontend
+- Appliation URL : https://muict.app/salad-pirate-frontend, Can Register
 - Member :
   1. Chitipat Pangma 6687012
   2. Wijit Nildee 6687046
