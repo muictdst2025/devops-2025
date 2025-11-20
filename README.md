@@ -198,10 +198,10 @@
   6. F
 
 
-### MorningMors(=== not ready)
+### MorningMores(=== not ready)
 - Application : EVENT RESERVATION 
 - Presentation Slide : TBA
-- Github : TBA
+- Github : [github](https://github.com/MorningMores/Test)
 - Appliation URL : TBA
 - Member :
   1. Kantanat Chamnien 6687008
@@ -227,7 +227,7 @@
   6. F
 
 
-### ChipHaiFamily(=== not ready)
+### ChipHaiFamily(Ready)
 - Application : Apartment Management
 - Presentation Slide : [slide](https://www.canva.com/design/DAG3aslh-xQ/Fi-yhVi7IWO40gHRH-k8OQ/edit?utm_content=DAG3aslh-xQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
 - Github : [github-private](https://github.com/ChipHaiFamily/DevopsApartment)
