@@ -200,9 +200,9 @@
 
 ### MorningMores(=== not ready)
 - Application : EVENT RESERVATION 
-- Presentation Slide : TBA
+- Presentation Slide : [slide](https://www.canva.com/design/DAG2DScIQ3o/MqP1iVZDZ3w516XMWQ8pKA/edit?utm_content=DAG2DScIQ3o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - Github : [github](https://github.com/MorningMores/Test)
-- Appliation URL : TBA
+- Appliation URL : d3jivuimmea02r.cloudfront.net
 - Member :
   1. Kantanat Chamnien 6687008
   2. Panaiyakorn Phanyaichada 6687027
