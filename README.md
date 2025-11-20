@@ -184,11 +184,11 @@
   6. F
 
 
-### Burtong(=== not ready)
-- Application : TBA
-- Presentation Slide : TBA
-- Github : [github(private)](https://github.com/burrTong/burrrtongg)
-- Appliation URL : https://muict.app/burrrtongg-frontend, user:admin@admin.com pass:admin
+### Burtong(Ready)
+- Application : E-commerce website
+- Presentation Slide : [slide](https://www.canva.com/design/DAG4gsdRMb0/QLXPIKViOfz0KMU-s-vEBQ/edit?utm_content=DAG4gsdRMb0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- Github : [github](https://github.com/burrTong/burrrtongg)
+- Appliation URL : https://muict.app/burrrtongg-frontend, [admin-page](https://muict.app/burrrtongg-frontend/admin/login),user:admin@admin.com pass:admin
 - Member :
   1. Kongpop Keattireangwattana 6687005
   2. Tapanut Aunpikul 6687014
