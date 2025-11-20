@@ -2,21 +2,21 @@
 
 ## Group list 
 
-### AraiNea
-- Application : 
-- Presentation Slide :
-- Github :
-- Appliation URL :
+### AraiNea(=== not ready)
+- Application : TBA
+- Presentation Slide : TBA
+- Github : TBA
+- Appliation URL : TBA
 - Member :
-  1. A
-  2. B
-  3. C
+  1. Thitaree Kongkaew 6687015
+  2. Daraporn Saepoo 6687019
+  3. Pattaraporn Tonsomboon 6687093
   4. D
   5. E
   6. F
 
 
-### LobotomycorpDST
+### LobotomycorpDST(=== Ready)
 - Application : Apartment Management 
 - Presentation Slide : [slide](https://www.canva.com/design/DAG43PmPr-o/KVUrBmi-fLmzQkcYYFi1wQ/edit?utm_content=DAG43PmPr-o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - Github : [github-fe](https://github.com/LobotomyCorpDST/Frontend), [github-be](https://github.com/LobotomyCorpDST/Backend)
@@ -30,7 +30,7 @@
   6. F
 
 
-### 1101
+### 1101(=== not ready)
 - Application : 
 - Presentation Slide :
 - Github :
@@ -44,7 +44,7 @@
   6. F
 
 
-### bofwant5000bath
+### bofwant5000bath(=== not ready)
 - Application : 
 - Presentation Slide :
 - Github :
@@ -58,7 +58,7 @@
   6. F
 
 
-### PapaPig99
+### PapaPig99(=== not ready)
 - Application :  Event Registration Platform
 - Presentation Slide : TBA
 - Github : [github-fe](https://github.com/PapaPig99/event-frontend), [github-be](https://github.com/PapaPig99/event-backend)
@@ -72,7 +72,7 @@
   6. F
 
 
-### PRODEV
+### PRODEV(=== not ready)
 - Application : E-commerce website
 - Presentation Slide : TBA
 - Github : [github](https://github.com/ProDev02/prodev)
@@ -86,7 +86,7 @@
   6. F
 
 
-### devops-lab-02
+### devops-lab-02(=== not ready)
 - Application :
 - Presentation Slide :
 - Github :
@@ -100,7 +100,7 @@
   6. F
 
 
-### 5tuay10bath
+### 5tuay10bath(=== not ready)
 - Application : TBA
 - Presentation Slide : TBA
 - Github : [github-deployment](https://github.com/5tuay10bath)
@@ -114,21 +114,21 @@
   6. F
 
 
-### Devops
-- Application : 
-- Presentation Slide :
-- Github :
-- Appliation URL :
+### Devops(=== not ready)
+- Application : TBA
+- Presentation Slide : TBA
+- Github : [github](https://github.com/lipikakanlayarit/DevOps)
+- Appliation URL : TBA
 - Member :
-  1. A
-  2. B
-  3. C
-  4. D
+  1. Lipka kanlayarit 6687096
+  2. Papasarin Kamonchariyachat 6687036
+  3. Naris Pholpak 6687025
+  4. Tanakit Kritthanachanpong 6687061
   5. E
   6. F
 
 
-### jabandfriends
+### jabandfriends(=== not ready)
 - Application : Apartment Management
 - Presentation Slide : TBA
 - Github : [github-be](https://github.com/jabandfriends/rentora-api)
@@ -142,7 +142,7 @@
   6. Thanakrit Rattanaumnuaysiri 6687085
 
 
-### ItsmePince
+### ItsmePince(=== not ready)
 - Application : 
 - Presentation Slide :
 - Github :
@@ -156,7 +156,7 @@
   6. F
 
 
-### 5000-Bath
+### 5000-Bath(=== not ready)
 - Application : TBA
 - Presentation Slide : TBA
 - Github : [github](https://github.com/5000-Bath/project-Devop)
@@ -170,13 +170,13 @@
   6. Peeranut Machaivech
 
 
-### f-midterm
-- Application : 
-- Presentation Slide :
-- Github :
-- Appliation URL :
+### f-midterm(=== not ready)
+- Application : TBA
+- Presentation Slide : TBA
+- Github : TBA
+- Appliation URL : https://beliv.pipatpongpri.dev/
 - Member :
-  1. A
+  1. Pipatpong Primna 6687034
   2. B
   3. C
   4. D
@@ -184,7 +184,7 @@
   6. F
 
 
-### Burtong
+### Burtong(=== not ready)
 - Application : TBA
 - Presentation Slide : TBA
 - Github : [github(private)](https://github.com/burrTong/burrrtongg)
@@ -198,21 +198,22 @@
   6. F
 
 
-### MorningMors
-- Application : 
-- Presentation Slide :
-- Github :
-- Appliation URL :
+### MorningMors(=== not ready)
+- Application : EVENT RESERVATION 
+- Presentation Slide : TBA
+- Github : TBA
+- Appliation URL : TBA
 - Member :
-  1. A
-  2. B
-  3. C
-  4. D
-  5. E
-  6. F
+  1. Kantanat Chamnien 6687008
+  2. Panaiyakorn Phanyaichada 6687027
+  3. Pichitchai Paecharoenchai 6687033
+  4. Putinun Tachavataporn 6687038
+  5. Suveewat Srimontha 6687058
+  6. Poramee Piyapun 6687065
+  7. Thanason Boonmark 6687088
 
 
-### Salad-Pirate
+### Salad-Pirate(=== not ready)
 - Application : Personal Money Management
 - Presentation Slide : [slide](https://www.canva.com/design/DAG2DPqmUtc/ielP0G0C4WmYGQVp38zhJg/edit)
 - Github : [github-fe](https://github.com/Salad-Pirate/Personal_Money_Management), [github-be](https://github.com/Salad-Pirate/Personal_Money_Management_BackEnd), [github-db](https://github.com/Salad-Pirate/Personal_Money_Management_DB), [github-infra](https://github.com/Salad-Pirate/Personal_Money_Management_Infra), [github-docs](https://github.com/Salad-Pirate/Personal_Money_Management_Document)
@@ -226,7 +227,7 @@
   6. F
 
 
-### ChipHaiFamily
+### ChipHaiFamily(=== not ready)
 - Application : Apartment Management
 - Presentation Slide : [slide](https://www.canva.com/design/DAG3aslh-xQ/Fi-yhVi7IWO40gHRH-k8OQ/edit?utm_content=DAG3aslh-xQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
 - Github : [github-private](https://github.com/ChipHaiFamily/DevopsApartment)
@@ -240,21 +241,21 @@
   6. F
 
 
-### OrganicNow
-- Application :
-- Presentation Slide :
-- Github :
-- Appliation URL :
+### OrganicNow(=== not ready)
+- Application : Apartment Management
+- Presentation Slide : [slide](https://www.canva.com/design/DAG435hD1CY/HnekAEB4teHFnWFFCYEFmg/edit?utm_content=DAG435hD1CY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- Github : [github](https://github.com/OrganicNow/OrganicNow)
+- Appliation URL : TBA
 - Member :
-  1. A
-  2. B
-  3. C
-  4. D
-  5. E
+  1. Thanyarat Wutiroongreungsakul 6687063
+  2. Techit Thititammajariya 6687002
+  3. Kemisara Anankamongkol 6687074
+  4. Chawanwit Khuanphatkul 6687078
+  5. Sirathee Klinbua 6687102
   6. F
 
 
-### HelloDevops
+### HelloDevops(=== not ready)
 - Application : E-commerce Website for a Food Store
 - Presentation Slide : TBA
 - Github : [github-fe](https://github.com/helloDevops2025/helloDevops.git), [github-be](https://github.com/helloDevops2025/helloDevops-backend.git)
@@ -267,14 +268,14 @@
   5. Raveeploy Charoenchaiprakij 6687042
   6. F
 
-### kitschyyy
-- Application :
-- Presentation Slide :
-- Github :
-- Appliation URL :
+### kitschyyy(=== not ready)
+- Application : TBA
+- Presentation Slide : TBA
+- Github : TBA
+- Appliation URL : TBA
 - Member :
-  1. A
-  2. B
+  1. Thankamol Saekeang 6687023
+  2. Phimchsnok Laonok 6687035
   3. C
   4. D
   5. E
