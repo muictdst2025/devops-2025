@@ -83,7 +83,7 @@
   3. Pawornrat saowapitukool 6687084
   4. Arisa Asavadechvudthikul 6687073
   5. Wanthamon Thapthiang 6687069
-  6. F
+  6. 
 
 
 ### devops-lab-02
