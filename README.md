@@ -19,7 +19,7 @@
 ### LobotomycorpDST(=== Ready)
 - Application : Apartment Management 
 - Presentation Slide : [slide](https://www.canva.com/design/DAG43PmPr-o/KVUrBmi-fLmzQkcYYFi1wQ/edit?utm_content=DAG43PmPr-o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-- Github : [github-fe](https://github.com/LobotomyCorpDST/Frontend), [github-be](https://github.com/LobotomyCorpDST/Backend), user: admin, pass: 1234
+- Github : [github-fe](https://github.com/LobotomyCorpDST/Frontend), [github-be](https://github.com/LobotomyCorpDST/Backend)
 - Appliation URL : https://apt.krentiz.dev/
 - Member :
   1. Kanyanat Uetrakulchai 6687007
