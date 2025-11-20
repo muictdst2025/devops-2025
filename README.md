@@ -231,7 +231,7 @@
 - Application : Apartment Management
 - Presentation Slide : [slide](https://www.canva.com/design/DAG3aslh-xQ/Fi-yhVi7IWO40gHRH-k8OQ/edit?utm_content=DAG3aslh-xQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
 - Github : [github-private](https://github.com/ChipHaiFamily/DevopsApartment)
-- Appliation URL : TBA
+- Appliation URL : https://muict.app/chiphaifamily-frontend
 - Member :
   1. Yatavee wariyot 6687013
   2. Sukollapat Pisuchpen 6687052
