@@ -229,7 +229,7 @@
 
 ### ChipHaiFamily(Ready)
 - Application : Apartment Management
-- Presentation Slide : [slide](https://www.canva.com/design/DAG3aslh-xQ/Fi-yhVi7IWO40gHRH-k8OQ/edit?utm_content=DAG3aslh-xQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
+- Presentation Slide : [slide](https://www.canva.com/design/DAG0F4YESkE/LaqAhwXaGYaYWi47PpS1VA/edit?utm_content=DAG0F4YESkE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
 - Github : [github-private](https://github.com/ChipHaiFamily/DevopsApartment)
 - Appliation URL : https://muict.app/chiphaifamily-frontend
 - Member :
