@@ -158,9 +158,9 @@
 
 ### 5000-Bath(=== not ready)
 - Application : TBA
-- Presentation Slide : TBA
+- Presentation Slide : [slide](https://www.canva.com/design/DAG5NqDuw2Q/nQjpm9wrH7rbLh1hPPB4Yw/edit?utm_content=DAG5NqDuw2Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - Github : [github](https://github.com/5000-Bath/project-Devop)
-- Appliation URL : TBA
+- Appliation URL : https://adminrayong.weerapatserver.com/, https://rayong.weerapatserver.com
 - Member :
   1. Yanaphat Jumpaburee
   2. Weerapat Aphiphuwong
