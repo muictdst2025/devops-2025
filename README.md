@@ -3,9 +3,9 @@
 ## Group list 
 
 ### AraiNea(=== not ready)
-- Application : TBA
-- Presentation Slide : TBA
-- Github : TBA
+- Application : E-commerce Website for Pizza Store
+- Presentation Slide : [slide](https://www.canva.com/design/DAG5HvG4RA4/SVJXUGD0ppZjawusd7aGaQ/edit?utm_content=DAG5HvG4RA4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- Github : [github-fe](https://github.com/AraiNea/Frontend), [github-be](https://github.com/AraiNea/Backend), [github-deployment](https://github.com/AraiNea/Deployment)
 - Appliation URL : TBA
 - Member :
   1. Thitaree Kongkaew 6687015
@@ -18,7 +18,7 @@
 
 ### LobotomycorpDST(=== Ready)
 - Application : Apartment Management 
-- Presentation Slide : [slide](https://www.canva.com/design/DAG43PmPr-o/KVUrBmi-fLmzQkcYYFi1wQ/edit?utm_content=DAG43PmPr-o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- Presentation Slide : [slide](https://www.canva.com/design/DAG43PmPr-o/PSRuVJXlVgW6D3o0Yd2b2A/view?utlId=h194c81ce91)
 - Github : [github-fe](https://github.com/LobotomyCorpDST/Frontend), [github-be](https://github.com/LobotomyCorpDST/Backend)
 - Appliation URL : https://apt.krentiz.dev/
 - Member :
@@ -44,30 +44,30 @@
   6. F
 
 
-### bofwant5000bath(=== not ready)
-- Application : 
-- Presentation Slide :
-- Github :
-- Appliation URL :
+### bofwant5000bath(Ready)
+- Application : Group Expense Splitter
+- Presentation Slide : [slide](https://www.canva.com/design/DAG5QWrl2Eo/etdfEpukdx6maHFxB51qxw/edit?utm_content=DAG5QWrl2Eo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- Github : [github](https://github.com/bofwant5000bath/bofwant5000bath)
+- Appliation URL : https://bofwant5000frontend.zeabur.app/#/register
 - Member :
-  1. A
-  2. B
-  3. C
+  1. Keatikun Komkeng 6687001
+  2. Pornpawee Pathompornwiwat 6687031
+  3. Sutarnthip Luangthip 6687057
   4. D
   5. E
   6. F
 
 
-### PapaPig99(=== not ready)
+### PapaPig99(Ready)
 - Application :  Event Registration Platform
-- Presentation Slide : TBA
+- Presentation Slide : [slide](https://www.canva.com/design/DAG3a53tu_Y/r44U5JdmMFWCZQnOJ0zrBw/view?utm_content=DAG3a53tu_Y&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8c0b8d0bce)
 - Github : [github-fe](https://github.com/PapaPig99/event-frontend), [github-be](https://github.com/PapaPig99/event-backend)
-- Appliation URL : TBA
+- Appliation URL : user -> https://muict.app/papapig99-frontend, admin -> https://muict.app/papapig99-frontend/admin/login (email: admin@test.com password:password)
 - Member :
   1. Thitiporn Panthanan 6687016
-  2. B
-  3. C
-  4. D
+  2. Punyawee Sornpanya 6687030
+  3. Pornpat Punthong 6687039
+  4. Wanlida Suphasri-itsara 6687070
   5. E
   6. F
 
@@ -87,24 +87,24 @@
 
 
 ### devops-lab-02(=== not ready)
-- Application :
-- Presentation Slide :
-- Github :
-- Appliation URL :
+- Application : Group Expense Splitter
+- Presentation Slide : TBA
+- Github : [github](https://github.com/SakanaIsReal/devops-lab-02)
+- Appliation URL : TBA
 - Member :
-  1. A
-  2. B
-  3. C
-  4. D
-  5. E
+  1. Krittanon Chongklahan 6687004
+  2. Jirayu Saisawat 6687009
+  3. Jutichot Phenpan 6687010
+  4. นวดล สมบูรณ์กุล 6687026
+  5. Wattanachai Boonchai 6687045
   6. F
 
 
-### 5tuay10bath(=== not ready)
+### 5tuay10bath(Ready)
 - Application : TBA
 - Presentation Slide : TBA
-- Github : [github-deployment](https://github.com/5tuay10bath)
-- Appliation URL : TBA
+- Github : [github-fe](https://github.com/5tuay10bath/deawkoikid-fe), [github-be](https://github.com/5tuay10bath/deawkoikid-be), [github-docs](https://github.com/5tuay10bath/Documents)
+- Appliation URL : https://muict.app/fivetuay10bath-frontend
 - Member :
   1. Sippakorn Chotiwachira 6687055
   2. Sapon Wongkrasaemongkol 6687053
@@ -117,7 +117,7 @@
 ### Devops(=== not ready)
 - Application : TBA
 - Presentation Slide : TBA
-- Github : [github](https://github.com/lipikakanlayarit/DevOps)
+- Github : [github](https://github.com/ITDS323DevOps/DevOps)
 - Appliation URL : TBA
 - Member :
   1. Lipka kanlayarit 6687096
@@ -128,11 +128,11 @@
   6. F
 
 
-### jabandfriends(=== not ready)
+### jabandfriends(Ready)
 - Application : Apartment Management
-- Presentation Slide : TBA
-- Github : [github-be](https://github.com/jabandfriends/rentora-api)
-- Appliation URL : TBA
+- Presentation Slide : [slide](https://www.canva.com/design/DAG2EPve734/Hwvl9L61RH1uGK2mtrtQhQ/edit?utm_content=DAG2EPve734&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- Github : [github-fe](https://github.com/jabandfriends/rentora-interface), [github-be](https://github.com/jabandfriends/rentora-api)
+- Appliation URL : https://rentora.teamforge.cloud/
 - Member :
   1. Chanathip Chaowaphong 6687011
   2. Onnicha Intuwattanakul 6687108
@@ -143,43 +143,43 @@
 
 
 ### ItsmePince(=== not ready)
-- Application : 
-- Presentation Slide :
-- Github :
-- Appliation URL :
+- Application : Personal Money Management
+- Presentation Slide : [slide](https://www.canva.com/design/DAG5HRo-Dkc/J64CNE13xG9M2P5Bc_TxDQ/edit?utm_content=DAG5HRo-Dkc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- Github : [github](https://github.com/ItsMePince/save-money-)
+- Appliation URL : https://terrilyn-zaniest-alesha.ngrok-free.dev/home
 - Member :
-  1. A
-  2. B
-  3. C
-  4. D
+  1. Wissawachit Rungruang 6687048
+  2. Monthisa Kanchanachaya 6687068
+  3. Supawich Thompad 6687099
+  4. Aphiruj Ariyanon 6687107
   5. E
   6. F
 
 
-### 5000-Bath(=== not ready)
-- Application : TBA
+### 5000-Bath(Ready)
+- Application : Food Store
 - Presentation Slide : [slide](https://www.canva.com/design/DAG5NqDuw2Q/nQjpm9wrH7rbLh1hPPB4Yw/edit?utm_content=DAG5NqDuw2Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - Github : [github](https://github.com/5000-Bath/project-Devop)
-- Appliation URL : https://adminrayong.weerapatserver.com/, https://rayong.weerapatserver.com
+- Appliation URL : admin -> https://adminrayong.weerapatserver.com/, user -> https://rayong.weerapatserver.com
 - Member :
   1. Yanaphat Jumpaburee
   2. Weerapat Aphiphuwong
   3. Tas Sukastid
   4. Kongphop Kaochot 6687006
   5. Taned Somchervieng 6687020
-  6. Peeranut Machaivech
+  6. Peeranut Machaivech 6687067
 
 
-### f-midterm(=== not ready)
-- Application : TBA
+### f-midterm(Ready)
+- Application : Apartment Management
 - Presentation Slide : TBA
-- Github : TBA
+- Github : [github](https://github.com/f-midterm/GKE-Project-ffinal.git), [github-grafana](https://github.com/f-midterm/project-ffinal.git)
 - Appliation URL : https://beliv.pipatpongpri.dev/
 - Member :
   1. Pipatpong Primna 6687034
   2. B
   3. C
-  4. D
+  4. Natchanon nabboon
   5. E
   6. F
 
@@ -188,7 +188,7 @@
 - Application : E-commerce website
 - Presentation Slide : [slide](https://www.canva.com/design/DAG4gsdRMb0/QLXPIKViOfz0KMU-s-vEBQ/edit?utm_content=DAG4gsdRMb0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - Github : [github](https://github.com/burrTong/burrrtongg)
-- Appliation URL : https://muict.app/burrrtongg-frontend, [admin-page](https://muict.app/burrrtongg-frontend/admin/login),user:admin@admin.com pass:admin
+- Appliation URL : user -> https://muict.app/burrrtongg-frontend, admin -> https://muict.app/burrrtongg-frontend/admin/login (user:admin@admin.com pass:admin)
 - Member :
   1. Kongpop Keattireangwattana 6687005
   2. Tapanut Aunpikul 6687014
@@ -198,11 +198,11 @@
   6. F
 
 
-### MorningMores(=== not ready)
+### MorningMores(Ready)
 - Application : EVENT RESERVATION 
 - Presentation Slide : [slide](https://www.canva.com/design/DAG2DScIQ3o/MqP1iVZDZ3w516XMWQ8pKA/edit?utm_content=DAG2DScIQ3o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - Github : [github](https://github.com/MorningMores/Test)
-- Appliation URL : d3jivuimmea02r.cloudfront.net
+- Appliation URL : http://d3jivuimmea02r.cloudfront.net/
 - Member :
   1. Kantanat Chamnien 6687008
   2. Panaiyakorn Phanyaichada 6687027
@@ -213,11 +213,11 @@
   7. Thanason Boonmark 6687088
 
 
-### Salad-Pirate(=== not ready)
+### Salad-Pirate(Ready)
 - Application : Personal Money Management
-- Presentation Slide : [slide](https://www.canva.com/design/DAG2DPqmUtc/ielP0G0C4WmYGQVp38zhJg/edit)
+- Presentation Slide : [slide](https://www.canva.com/design/DAG5PE-7KAQ/4QL6mpgkFPAvHBYSXh29Fw/edit?utm_content=DAG5PE-7KAQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - Github : [github-fe](https://github.com/Salad-Pirate/Personal_Money_Management), [github-be](https://github.com/Salad-Pirate/Personal_Money_Management_BackEnd), [github-db](https://github.com/Salad-Pirate/Personal_Money_Management_DB), [github-infra](https://github.com/Salad-Pirate/Personal_Money_Management_Infra), [github-docs](https://github.com/Salad-Pirate/Personal_Money_Management_Document)
-- Appliation URL : https://muict.app/salad-pirate-frontend, Can Register
+- Appliation URL : https://muict.app/salad-pirate-frontend
 - Member :
   1. Chitipat Pangma 6687012
   2. Wijit Nildee 6687046
@@ -230,7 +230,7 @@
 ### ChipHaiFamily(Ready)
 - Application : Apartment Management
 - Presentation Slide : [slide](https://www.canva.com/design/DAG0F4YESkE/LaqAhwXaGYaYWi47PpS1VA/edit?utm_content=DAG0F4YESkE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
-- Github : [github-private](https://github.com/ChipHaiFamily/DevopsApartment)
+- Github : [github](https://github.com/ChipHaiFamily/DevopsApartment)
 - Appliation URL : https://muict.app/chiphaifamily-frontend
                   For Login admin console -> email: admin@apt.com, password: ict555
 - Member :
@@ -256,11 +256,11 @@
   6. F
 
 
-### HelloDevops(=== not ready)
+### HelloDevops(Ready)
 - Application : E-commerce Website for a Food Store
 - Presentation Slide : TBA
 - Github : [github-fe](https://github.com/helloDevops2025/helloDevops.git), [github-be](https://github.com/helloDevops2025/helloDevops-backend.git)
-- Appliation URL : TBA
+- Appliation URL : https://hellodevops.muict.app/
 - Member :
   1. Taechinee ratanawimon 6687003
   2. Nutt Saipipan 6687017
