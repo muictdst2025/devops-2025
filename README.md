@@ -232,6 +232,7 @@
 - Presentation Slide : [slide](https://www.canva.com/design/DAG0F4YESkE/LaqAhwXaGYaYWi47PpS1VA/edit?utm_content=DAG0F4YESkE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
 - Github : [github-private](https://github.com/ChipHaiFamily/DevopsApartment)
 - Appliation URL : https://muict.app/chiphaifamily-frontend
+                  For Login admin console -> email: admin@apt.com, password: ict555
 - Member :
   1. Yatavee wariyot 6687013
   2. Sukollapat Pisuchpen 6687052
