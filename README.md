@@ -278,16 +278,14 @@
   2. Phimchsnok Laonok 6687035
 
 ### 1101(=== not ready)
-- Application : 
-- Presentation Slide :
-- Github :
-  - XXX 
+- Application : Personal Money Management
+- Presentation Slide : [slide](https://www.canva.com/design/DAG5VvWXcaQ/eZDVjtyxCTk01JCXA9CfZw/edit?utm_content=DAG5VvWXcaQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- Github : [github] (https://github.com/mu-devops-1101)
 - Appliation URL :
   - XXX
 - Member :
-  1. A
-  2. B
-  3. C
-  4. D
-  5. E
-  6. F
+  1. Chaopraya Shoksitthikorn 6587048
+  2. Aorakanya Intrapreeda 6587067
+  3. Panyapat Sangaroon 6587085
+  4. Pantaree Balee 6587087
+
