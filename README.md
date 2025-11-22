@@ -158,7 +158,7 @@
 
 ### HelloDevops
 - Application : E-commerce Website for a Food Store
-- Presentation Slide : TBA
+- Presentation Slide : [canva](https://www.canva.com/design/DAG2HipvNWM/F9WSxi1Bkajk-C0nRRkOzA)
 - Github :
   - [github-fe](https://github.com/helloDevops2025/helloDevops.git)
   - [github-be](https://github.com/helloDevops2025/helloDevops-backend.git)
