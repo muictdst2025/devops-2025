@@ -50,8 +50,12 @@
 ### PapaPig99(Ready)
 - Application :  Event Registration Platform
 - Presentation Slide : [slide](https://www.canva.com/design/DAG3a53tu_Y/r44U5JdmMFWCZQnOJ0zrBw/view?utm_content=DAG3a53tu_Y&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8c0b8d0bce)
-- Github : [github-fe](https://github.com/PapaPig99/event-frontend), [github-be](https://github.com/PapaPig99/event-backend)
-- Appliation URL : user -> https://muict.app/papapig99-frontend, admin -> https://muict.app/papapig99-frontend/admin/login (email: admin@test.com password:password)
+- Github :
+  - [github-fe](https://github.com/PapaPig99/event-frontend)
+  - [github-be](https://github.com/PapaPig99/event-backend)
+- Appliation URL :
+  - user -> https://muict.app/papapig99-frontend,
+  - admin -> https://muict.app/papapig99-frontend/admin/login (email: admin@test.com password:password)
 - Member :
   1. Thitiporn Panthanan 6687016
   2. Punyawee Sornpanya 6687030
