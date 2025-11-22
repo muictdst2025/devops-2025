@@ -11,10 +11,6 @@
   1. Thitaree Kongkaew 6687015
   2. Daraporn Saepoo 6687019
   3. Pattaraporn Tonsomboon 6687093
-  4. D
-  5. E
-  6. F
-
 
 ### LobotomycorpDST(=== Ready)
 - Application : Apartment Management 
@@ -26,9 +22,6 @@
   2. Mana Sudthamma 6687041
   3. Ratthanan Chanthapho 6687044
   4. Napasorn Lapprakobkit 6687089
-  5. E
-  6. F
-
 
 ### 1101(=== not ready)
 - Application : 
@@ -53,10 +46,6 @@
   1. Keatikun Komkeng 6687001
   2. Pornpawee Pathompornwiwat 6687031
   3. Sutarnthip Luangthip 6687057
-  4. D
-  5. E
-  6. F
-
 
 ### PapaPig99(Ready)
 - Application :  Event Registration Platform
@@ -68,9 +57,6 @@
   2. Punyawee Sornpanya 6687030
   3. Pornpat Punthong 6687039
   4. Wanlida Suphasri-itsara 6687070
-  5. E
-  6. F
-
 
 ### PRODEV(=== not ready)
 - Application : E-commerce website
@@ -83,8 +69,6 @@
   3. Pawornrat saowapitukool 6687084
   4. Arisa Asavadechvudthikul 6687073
   5. Wanthamon Thapthiang 6687069
-  6. F
-
 
 ### devops-lab-02(=== not ready)
 - Application : Group Expense Splitter
@@ -97,8 +81,6 @@
   3. Jutichot Phenpan 6687010
   4. นวดล สมบูรณ์กุล 6687026
   5. Wattanachai Boonchai 6687045
-  6. F
-
 
 ### 5tuay10bath(Ready)
 - Application : TBA
@@ -110,9 +92,6 @@
   2. Sapon Wongkrasaemongkol 6687053
   3. Varich Maleevan 6687097
   4. Siriprapas Kimpee 6687098
-  5. E
-  6. F
-
 
 ### Devops(=== not ready)
 - Application : TBA
@@ -124,9 +103,6 @@
   2. Papasarin Kamonchariyachat 6687036
   3. Naris Pholpak 6687025
   4. Tanakit Kritthanachanpong 6687061
-  5. E
-  6. F
-
 
 ### jabandfriends(Ready)
 - Application : Apartment Management
@@ -141,7 +117,6 @@
   5. Achiraya Nakbanpotkul 6687105
   6. Thanakrit Rattanaumnuaysiri 6687085
 
-
 ### ItsmePince(=== not ready)
 - Application : Personal Money Management
 - Presentation Slide : [slide](https://www.canva.com/design/DAG5HRo-Dkc/J64CNE13xG9M2P5Bc_TxDQ/edit?utm_content=DAG5HRo-Dkc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
@@ -152,9 +127,6 @@
   2. Monthisa Kanchanachaya 6687068
   3. Supawich Thompad 6687099
   4. Aphiruj Ariyanon 6687107
-  5. E
-  6. F
-
 
 ### 5000-Bath(Ready)
 - Application : Food Store
@@ -195,8 +167,6 @@
   3. Rathchanondh Su-angkavatin 6687043
   4. Sitta Silakhett 6687054
   5. Kittikhun Puangsuwan 6687059
-  6. F
-
 
 ### MorningMores(Ready)
 - Application : EVENT RESERVATION 
@@ -212,7 +182,6 @@
   6. Poramee Piyapun 6687065
   7. Thanason Boonmark 6687088
 
-
 ### Salad-Pirate(Ready)
 - Application : Personal Money Management
 - Presentation Slide : [slide](https://www.canva.com/design/DAG5PE-7KAQ/4QL6mpgkFPAvHBYSXh29Fw/edit?utm_content=DAG5PE-7KAQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
@@ -224,8 +193,6 @@
   3. Thanakrit Ouengphairo 6687062
   4. Chatra-Danai Emphandhu 6687077
   5. Sorrakit Wongkanta 6687100
-  6. F
-
 
 ### ChipHaiFamily(Ready)
 - Application : Apartment Management
@@ -237,10 +204,6 @@
   1. Yatavee wariyot 6687013
   2. Sukollapat Pisuchpen 6687052
   3. Ploy Jomboon 6687066
-  4. D
-  5. E
-  6. F
-
 
 ### OrganicNow(=== not ready)
 - Application : Apartment Management
@@ -253,8 +216,6 @@
   3. Kemisara Anankamongkol 6687074
   4. Chawanwit Khuanphatkul 6687078
   5. Sirathee Klinbua 6687102
-  6. F
-
 
 ### HelloDevops(Ready)
 - Application : E-commerce Website for a Food Store
@@ -267,7 +228,6 @@
   3. Natnicha Malailoy 6687018
   4. Ploy Phuangmala 6687032
   5. Raveeploy Charoenchaiprakij 6687042
-  6. F
 
 ### kitschyyy(=== not ready)
 - Application : TBA
@@ -277,147 +237,3 @@
 - Member :
   1. Thankamol Saekeang 6687023
   2. Phimchsnok Laonok 6687035
-  3. C
-  4. D
-  5. E
-  6. F
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Note(Example)
-### Chiphai Family
-- Application : Apartment Management
-- Presentation Slide : [Canva](https://www.canva.com/design/DAG3aslh-xQ/Fi-yhVi7IWO40gHRH-k8OQ/edit?utm_content=DAG3aslh-xQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
-- Github : LINK TO GIT
-- Appliation URL : LINK TO APPLICATION
-- Member :
-  1. A
-  2. B
-  3. C
-
-### 5000
-- APP :
-- Present :
-- Github : [github](https://github.com/5000-Bath/project-Devop)
-- Member :
-  1. A
-  2. B
-  3. C
