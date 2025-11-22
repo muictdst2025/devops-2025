@@ -20,7 +20,7 @@
 - Application : Apartment Management 
 - Presentation Slide : [slide](https://www.canva.com/design/DAG43PmPr-o/PSRuVJXlVgW6D3o0Yd2b2A/view?utlId=h194c81ce91)
 - Github : [github-fe](https://github.com/LobotomyCorpDST/Frontend), [github-be](https://github.com/LobotomyCorpDST/Backend)
-- Appliation URL : https://apt.krentiz.dev/
+- Appliation URL : https://apt.krentiz.dev/ (user: admin, pass: 1234)
 - Member :
   1. Kanyanat Uetrakulchai 6687007
   2. Mana Sudthamma 6687041
