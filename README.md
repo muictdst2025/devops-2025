@@ -2,7 +2,7 @@
 
 ## Group list 
 
-### ChipHaiFamily(Ready)
+### ChipHaiFamily
 - Application : Apartment Management
 - Presentation Slide : [slide](https://www.canva.com/design/DAG0F4YESkE/LaqAhwXaGYaYWi47PpS1VA/edit?utm_content=DAG0F4YESkE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
 - Github : [github](https://github.com/ChipHaiFamily/DevopsApartment)
@@ -14,7 +14,7 @@
   2. Sukollapat Pisuchpen 6687052
   3. Ploy Jomboon 6687066
 
-### PapaPig99(Ready)
+### PapaPig99
 - Application :  Event Registration Platform
 - Presentation Slide : [slide](https://www.canva.com/design/DAG3a53tu_Y/r44U5JdmMFWCZQnOJ0zrBw/view?utm_content=DAG3a53tu_Y&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8c0b8d0bce)
 - Github :
@@ -29,68 +29,7 @@
   3. Pornpat Punthong 6687039
   4. Wanlida Suphasri-itsara 6687070
 
-### 5000-Bath(Ready)
-- Application : Food Store
-- Presentation Slide : [slide](https://www.canva.com/design/DAG5NqDuw2Q/nQjpm9wrH7rbLh1hPPB4Yw/edit?utm_content=DAG5NqDuw2Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-- Github :
-  - [github](https://github.com/5000-Bath/project-Devop)
-- Appliation URL :
-  - admin -> https://adminrayong.weerapatserver.com/ (user: admin , pass:1234)
-  - user -> https://rayong.weerapatserver.com (user: user01, pass: 1234)
-- Member :
-  1. Yanaphat Jumpaburee
-  2. Weerapat Aphiphuwong
-  3. Tas Sukastid
-  4. Kongphop Kaochot 6687006
-  5. Taned Somchervieng 6687020
-  6. Peeranut Machaivech 6687067
-
-### f-midterm(Ready)
-- Application : Apartment Management
-- Presentation Slide : TBA
-- Github :
-  - [github](https://github.com/f-midterm/GKE-Project-ffinal.git)
-  - [github-grafana](https://github.com/f-midterm/project-ffinal.git)
-- Appliation URL : https://beliv.pipatpongpri.dev/
-- Member :
-  1. Pipatpong Primna 6687034
-  2. B
-  3. C
-  4. Natchanon nabboon
-  5. E
-  6. F
-
-### Burtong(Ready)
-- Application : E-commerce website
-- Presentation Slide : [slide](https://www.canva.com/design/DAG4gsdRMb0/QLXPIKViOfz0KMU-s-vEBQ/edit?utm_content=DAG4gsdRMb0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-- Github : [github](https://github.com/burrTong/burrrtongg)
-- Appliation URL :
-  - user -> https://muict.app/burrrtongg-frontend
-  - admin -> https://muict.app/burrrtongg-frontend/admin/login (user:admin@admin.com pass:admin)
-- Member :
-  1. Kongpop Keattireangwattana 6687005
-  2. Tapanut Aunpikul 6687014
-  3. Rathchanondh Su-angkavatin 6687043
-  4. Sitta Silakhett 6687054
-  5. Kittikhun Puangsuwan 6687059
-
-### MorningMores(Ready)
-- Application : EVENT RESERVATION 
-- Presentation Slide : [slide](https://www.canva.com/design/DAG2DScIQ3o/MqP1iVZDZ3w516XMWQ8pKA/edit?utm_content=DAG2DScIQ3o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-- Github :
-  - [github](https://github.com/MorningMores/Test)
-- Appliation URL :
-  - http://d3jivuimmea02r.cloudfront.net/
-- Member :
-  1. Kantanat Chamnien 6687008
-  2. Panaiyakorn Phanyaichada 6687027
-  3. Pichitchai Paecharoenchai 6687033
-  4. Putinun Tachavataporn 6687038
-  5. Suveewat Srimontha 6687058
-  6. Poramee Piyapun 6687065
-  7. Thanason Boonmark 6687088
-
-### Salad-Pirate(Ready)
+### Salad-Pirate
 - Application : Personal Money Management
 - Presentation Slide : [slide](https://www.canva.com/design/DAG5PE-7KAQ/4QL6mpgkFPAvHBYSXh29Fw/edit?utm_content=DAG5PE-7KAQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - Github :
@@ -108,7 +47,83 @@
   4. Chatra-Danai Emphandhu 6687077
   5. Sorrakit Wongkanta 6687100
 
- ### bofwant5000bath(Ready)
+### 5000-Bath
+- Application : Food Store
+- Presentation Slide : [slide](https://www.canva.com/design/DAG5NqDuw2Q/nQjpm9wrH7rbLh1hPPB4Yw/edit?utm_content=DAG5NqDuw2Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- Github :
+  - [github](https://github.com/5000-Bath/project-Devop)
+- Appliation URL :
+  - admin -> https://adminrayong.weerapatserver.com/ (user: admin , pass:1234)
+  - user -> https://rayong.weerapatserver.com (user: user01, pass: 1234)
+- Member :
+  1. Yanaphat Jumpaburee
+  2. Weerapat Aphiphuwong
+  3. Tas Sukastid
+  4. Kongphop Kaochot 6687006
+  5. Taned Somchervieng 6687020
+  6. Peeranut Machaivech 6687067
+
+### f-midterm
+- Application : Apartment Management
+- Presentation Slide : TBA
+- Github :
+  - [github](https://github.com/f-midterm/GKE-Project-ffinal.git)
+  - [github-grafana](https://github.com/f-midterm/project-ffinal.git)
+- Appliation URL : https://beliv.pipatpongpri.dev/
+- Member :
+  1. Pipatpong Primna 6687034
+  2. B
+  3. C
+  4. Natchanon nabboon
+  5. E
+  6. F
+
+### Burtong
+- Application : E-commerce website
+- Presentation Slide : [slide](https://www.canva.com/design/DAG4gsdRMb0/QLXPIKViOfz0KMU-s-vEBQ/edit?utm_content=DAG4gsdRMb0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- Github : [github](https://github.com/burrTong/burrrtongg)
+- Appliation URL :
+  - user -> https://muict.app/burrrtongg-frontend
+  - admin -> https://muict.app/burrrtongg-frontend/admin/login (user:admin@admin.com pass:admin)
+- Member :
+  1. Kongpop Keattireangwattana 6687005
+  2. Tapanut Aunpikul 6687014
+  3. Rathchanondh Su-angkavatin 6687043
+  4. Sitta Silakhett 6687054
+  5. Kittikhun Puangsuwan 6687059
+
+### MorningMores
+- Application : EVENT RESERVATION 
+- Presentation Slide : [slide](https://www.canva.com/design/DAG2DScIQ3o/MqP1iVZDZ3w516XMWQ8pKA/edit?utm_content=DAG2DScIQ3o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- Github :
+  - [github](https://github.com/MorningMores/Test)
+- Appliation URL :
+  - http://d3jivuimmea02r.cloudfront.net/
+- Member :
+  1. Kantanat Chamnien 6687008
+  2. Panaiyakorn Phanyaichada 6687027
+  3. Pichitchai Paecharoenchai 6687033
+  4. Putinun Tachavataporn 6687038
+  5. Suveewat Srimontha 6687058
+  6. Poramee Piyapun 6687065
+  7. Thanason Boonmark 6687088
+
+### 5tuay10bath
+- Application : TBA
+- Presentation Slide : TBA
+- Github :
+  - [github-docs](https://github.com/5tuay10bath/Documents)
+  - [github-fe](https://github.com/5tuay10bath/deawkoikid-fe)
+  - [github-be](https://github.com/5tuay10bath/deawkoikid-be)
+- Appliation URL :
+  - https://muict.app/fivetuay10bath-frontend
+- Member :
+  1. Sippakorn Chotiwachira 6687055
+  2. Sapon Wongkrasaemongkol 6687053
+  3. Varich Maleevan 6687097
+  4. Siriprapas Kimpee 6687098
+
+ ### bofwant5000bath
 - Application : Group Expense Splitter
 - Presentation Slide : [slide](https://www.canva.com/design/DAG5QWrl2Eo/etdfEpukdx6maHFxB51qxw/edit?utm_content=DAG5QWrl2Eo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - Github :
@@ -120,7 +135,7 @@
   2. Pornpawee Pathompornwiwat 6687031
   3. Sutarnthip Luangthip 6687057
 
-### jabandfriends(Ready)
+### jabandfriends
 - Application : Apartment Management
 - Presentation Slide : [slide](https://www.canva.com/design/DAG2EPve734/Hwvl9L61RH1uGK2mtrtQhQ/edit?utm_content=DAG2EPve734&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - Github :
@@ -135,6 +150,21 @@
   4. Pathanin Phisitbut 6687064
   5. Achiraya Nakbanpotkul 6687105
   6. Thanakrit Rattanaumnuaysiri 6687085
+
+### HelloDevops
+- Application : E-commerce Website for a Food Store
+- Presentation Slide : TBA
+- Github :
+  - [github-fe](https://github.com/helloDevops2025/helloDevops.git)
+  - [github-be](https://github.com/helloDevops2025/helloDevops-backend.git)
+- Appliation URL :
+  - https://hellodevops.muict.app/
+- Member :
+  1. Taechinee ratanawimon 6687003
+  2. Nutt Saipipan 6687017
+  3. Natnicha Malailoy 6687018
+  4. Ploy Phuangmala 6687032
+  5. Raveeploy Charoenchaiprakij 6687042
 
 ### AraiNea(=== not ready)
 - Application : E-commerce Website for Pizza Store
@@ -163,21 +193,6 @@
   2. Mana Sudthamma 6687041
   3. Ratthanan Chanthapho 6687044
   4. Napasorn Lapprakobkit 6687089
-
-### 5tuay10bath(Ready)
-- Application : TBA
-- Presentation Slide : TBA
-- Github :
-  - [github-docs](https://github.com/5tuay10bath/Documents)
-  - [github-fe](https://github.com/5tuay10bath/deawkoikid-fe)
-  - [github-be](https://github.com/5tuay10bath/deawkoikid-be)
-- Appliation URL :
-  - https://muict.app/fivetuay10bath-frontend
-- Member :
-  1. Sippakorn Chotiwachira 6687055
-  2. Sapon Wongkrasaemongkol 6687053
-  3. Varich Maleevan 6687097
-  4. Siriprapas Kimpee 6687098
 
 ### PRODEV(=== not ready)
 - Application : E-commerce website
@@ -245,21 +260,6 @@
   3. Kemisara Anankamongkol 6687074
   4. Chawanwit Khuanphatkul 6687078
   5. Sirathee Klinbua 6687102
-
-### HelloDevops(Ready)
-- Application : E-commerce Website for a Food Store
-- Presentation Slide : TBA
-- Github :
-  - [github-fe](https://github.com/helloDevops2025/helloDevops.git)
-  - [github-be](https://github.com/helloDevops2025/helloDevops-backend.git)
-- Appliation URL :
-  - https://hellodevops.muict.app/
-- Member :
-  1. Taechinee ratanawimon 6687003
-  2. Nutt Saipipan 6687017
-  3. Natnicha Malailoy 6687018
-  4. Ploy Phuangmala 6687032
-  5. Raveeploy Charoenchaiprakij 6687042
 
 ### kitschyyy(=== not ready)
 - Application : TBA
