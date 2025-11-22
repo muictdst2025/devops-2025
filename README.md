@@ -70,9 +70,11 @@
   - [github](https://github.com/f-midterm/GKE-Project-ffinal.git)
   - [github-grafana](https://github.com/f-midterm/project-ffinal.git)
 - Appliation URL : https://beliv.pipatpongpri.dev/ 
-                    FULL SYSTEM(ADMIN_USERNAME=apartment_admin, ADMIN_PASSWORD=Admin@2024!Secure, ADMIN_EMAIL=admin@apartment-system.local),
-                    Villager User(VILLAGER_USERNAME=resident_demo, VILLAGER_PASSWORD=Resident@2024!Demo, VILLAGER_EMAIL=resident@apartment-system.local),
-                    Test User(TEST_USERNAME=test, TEST_PASSWORD=test301408)
+  - FULL SYSTEM(ADMIN_USERNAME=apartment_admin
+  - ADMIN_PASSWORD=Admin@2024!Secure, ADMIN_EMAIL=admin@apartment-system.local)
+  - Villager User(VILLAGER_USERNAME=resident_demo, VILLAGER_PASSWORD=Resident@2024!Demo
+  - VILLAGER_EMAIL=resident@apartment-system.local)
+  - Test User(TEST_USERNAME=test, TEST_PASSWORD=test301408)
 - Member :
   1. Pipatpong Primna 6687034
   2. B
