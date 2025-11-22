@@ -74,7 +74,7 @@
 
 ### PRODEV(=== not ready)
 - Application : E-commerce website
-- Presentation Slide : TBA
+- Presentation Slide : [Slide](https://www.canva.com/design/DAG5MxQGOes/crSJ9dqtpQNgGjz-pjxV7g/edit?utm_content=DAG5MxQGOes&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - Github : [github](https://github.com/ProDev02/prodev)
 - Appliation URL : TBA
 - Member :
