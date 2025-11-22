@@ -163,8 +163,8 @@
 - Github :
   - [github](https://github.com/5000-Bath/project-Devop)
 - Appliation URL :
-  - admin -> https://adminrayong.weerapatserver.com/
-  - user -> https://rayong.weerapatserver.com
+  - admin -> https://adminrayong.weerapatserver.com/ (user: admin , pass:1234)
+  - user -> https://rayong.weerapatserver.com (user: user01, pass: 1234)
 - Member :
   1. Yanaphat Jumpaburee
   2. Weerapat Aphiphuwong
