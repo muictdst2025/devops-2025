@@ -34,9 +34,9 @@
 - Application : 
 - Presentation Slide :
 - Github :
-  - 
+  - XXX 
 - Appliation URL :
-  - 
+  - XXX
 - Member :
   1. A
   2. B
