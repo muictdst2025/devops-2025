@@ -170,6 +170,20 @@
   3. Natnicha Malailoy 6687018
   4. Ploy Phuangmala 6687032
   5. Raveeploy Charoenchaiprakij 6687042
+ 
+### OrganicNow
+- Application : Apartment Management
+- Presentation Slide : [slide](https://www.canva.com/design/DAG435hD1CY/HnekAEB4teHFnWFFCYEFmg/edit?utm_content=DAG435hD1CY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- Github :
+  -[github](https://github.com/OrganicNow/OrganicNow)
+- Appliation URL : https://muict.app/organicnow-frontend/login
+  - TBA
+- Member :
+  1. Thanyarat Wutiroongreungsakul 6687063
+  2. Techit Thititammajariya 6687002
+  3. Kemisara Anankamongkol 6687074
+  4. Chawanwit Khuanphatkul 6687078
+  5. Sirathee Klinbua 6687102
 
 ### AraiNea(=== not ready)
 - Application : E-commerce Website for Pizza Store
@@ -251,20 +265,6 @@
   2. Monthisa Kanchanachaya 6687068
   3. Supawich Thompad 6687099
   4. Aphiruj Ariyanon 6687107
-
-### OrganicNow(=== not ready)
-- Application : Apartment Management
-- Presentation Slide : [slide](https://www.canva.com/design/DAG435hD1CY/HnekAEB4teHFnWFFCYEFmg/edit?utm_content=DAG435hD1CY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-- Github :
-  -[github](https://github.com/OrganicNow/OrganicNow)
-- Appliation URL :
-  - TBA
-- Member :
-  1. Thanyarat Wutiroongreungsakul 6687063
-  2. Techit Thititammajariya 6687002
-  3. Kemisara Anankamongkol 6687074
-  4. Chawanwit Khuanphatkul 6687078
-  5. Sirathee Klinbua 6687102
 
 ### kitschyyy(=== not ready)
 - Application : TBA
