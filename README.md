@@ -170,20 +170,61 @@
   3. Natnicha Malailoy 6687018
   4. Ploy Phuangmala 6687032
   5. Raveeploy Charoenchaiprakij 6687042
+
+### LobotomycorpDST
+- Application : Apartment Management 
+- Presentation Slide : [slide](https://www.canva.com/design/DAG43PmPr-o/PSRuVJXlVgW6D3o0Yd2b2A/view?utlId=h194c81ce91)
+- Github :
+  - [github-fe](https://github.com/LobotomyCorpDST/Frontend)
+  - [github-be](https://github.com/LobotomyCorpDST/Backend)
+- Appliation URL :
+  - https://apt.krentiz.dev/ (user: admin, pass: 1234)
+- Member :
+  1. Kanyanat Uetrakulchai 6687007
+  2. Mana Sudthamma 6687041
+  3. Ratthanan Chanthapho 6687044
+  4. Napasorn Lapprakobkit 6687089
+
+### ItsmePince
+- Application : Personal Money Management
+- Presentation Slide : [slide](https://www.canva.com/design/DAG5HRo-Dkc/J64CNE13xG9M2P5Bc_TxDQ/edit?utm_content=DAG5HRo-Dkc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- Github :
+  - [github](https://github.com/ItsMePince/save-money-)
+- Appliation URL :
+  - https://terrilyn-zaniest-alesha.ngrok-free.dev/home
+- Member :
+  1. Wissawachit Rungruang 6687048
+  2. Monthisa Kanchanachaya 6687068
+  3. Supawich Thompad 6687099
+  4. Aphiruj Ariyanon 6687107
  
 ### OrganicNow
 - Application : Apartment Management
 - Presentation Slide : [slide](https://www.canva.com/design/DAG435hD1CY/HnekAEB4teHFnWFFCYEFmg/edit?utm_content=DAG435hD1CY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - Github :
   -[github](https://github.com/OrganicNow/OrganicNow)
-- Appliation URL : https://muict.app/organicnow-frontend/login
-  - TBA
+- Appliation URL : 
+  - https://muict.app/organicnow-frontend/login
 - Member :
   1. Thanyarat Wutiroongreungsakul 6687063
   2. Techit Thititammajariya 6687002
   3. Kemisara Anankamongkol 6687074
   4. Chawanwit Khuanphatkul 6687078
   5. Sirathee Klinbua 6687102
+
+ ### PRODEV
+- Application : E-commerce website
+- Presentation Slide : TBA
+- Github :
+  - [github](https://github.com/ProDev02/prodev)
+- Appliation URL :
+  - https://muict.app/prodev-frontend
+- Member :
+  1. Aekkasit Saksawatdikun 6687075
+  2. Siriwat Sakawatdikun 6687103
+  3. Pawornrat saowapitukool 6687084
+  4. Arisa Asavadechvudthikul 6687073
+  5. Wanthamon Thapthiang 6687069
 
 ### AraiNea(=== not ready)
 - Application : E-commerce Website for Pizza Store
@@ -198,34 +239,6 @@
   1. Thitaree Kongkaew 6687015
   2. Daraporn Saepoo 6687019
   3. Pattaraporn Tonsomboon 6687093
-
-### LobotomycorpDST(=== Ready)
-- Application : Apartment Management 
-- Presentation Slide : [slide](https://www.canva.com/design/DAG43PmPr-o/PSRuVJXlVgW6D3o0Yd2b2A/view?utlId=h194c81ce91)
-- Github :
-  - [github-fe](https://github.com/LobotomyCorpDST/Frontend)
-  - [github-be](https://github.com/LobotomyCorpDST/Backend)
-- Appliation URL :
-  - https://apt.krentiz.dev/ (user: admin, pass: 1234)
-- Member :
-  1. Kanyanat Uetrakulchai 6687007
-  2. Mana Sudthamma 6687041
-  3. Ratthanan Chanthapho 6687044
-  4. Napasorn Lapprakobkit 6687089
-
-### PRODEV(=== not ready)
-- Application : E-commerce website
-- Presentation Slide : TBA
-- Github :
-  - [github](https://github.com/ProDev02/prodev)
-- Appliation URL :
-  - TBA
-- Member :
-  1. Aekkasit Saksawatdikun 6687075
-  2. Siriwat Sakawatdikun 6687103
-  3. Pawornrat saowapitukool 6687084
-  4. Arisa Asavadechvudthikul 6687073
-  5. Wanthamon Thapthiang 6687069
 
 ### devops-lab-02(=== not ready)
 - Application : Group Expense Splitter
@@ -252,19 +265,6 @@
   2. Papasarin Kamonchariyachat 6687036
   3. Naris Pholpak 6687025
   4. Tanakit Kritthanachanpong 6687061
-  
-### ItsmePince(=== not ready)
-- Application : Personal Money Management
-- Presentation Slide : [slide](https://www.canva.com/design/DAG5HRo-Dkc/J64CNE13xG9M2P5Bc_TxDQ/edit?utm_content=DAG5HRo-Dkc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-- Github :
-  - [github](https://github.com/ItsMePince/save-money-)
-- Appliation URL :
-  - https://terrilyn-zaniest-alesha.ngrok-free.dev/home
-- Member :
-  1. Wissawachit Rungruang 6687048
-  2. Monthisa Kanchanachaya 6687068
-  3. Supawich Thompad 6687099
-  4. Aphiruj Ariyanon 6687107
 
 ### kitschyyy(=== not ready)
 - Application : TBA
